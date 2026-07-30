@@ -14,6 +14,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Broad Cancer Cell Line Encyclopedia (CCLE)](http://www.broadinstitute.org/ccle/home)
 * [Cell Image Library](http://www.cellimagelibrary.org)
 * [Complete Genomics Public Data - A diverse data set of whole human genomes](http://www.completegenomics.com/public-data/69-genomes/)
+* [DNA Chip Coverage](https://github.com/AndreySoloviev/dna-chip-coverage) - Which SNP markers are present on consumer DNA genotyping arrays: 70 clinically discussed markers against 5 published Illumina arrays and 9 consumer products (980 rows), built from public Illumina manifests and dbSNP coordinates with a reproducible build script, CSV, CC BY 4.0
 * [EBI ArrayExpress - ArrayExpress Archive of Functional Genomics Data](http://www.ebi.ac.uk/arrayexpress/)
 * [EBI Protein Data Bank in Europe - The Electron Microscopy Data Bank](http://www.ebi.ac.uk/pdbe/emdb/index.html/)
 * [ENCODE project - The Encyclopedia of DNA Elements (ENCODE) Consortium](https://www.encodeproject.org)
